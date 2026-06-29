@@ -4,3 +4,7 @@ Unity-based fire emergency training prototype developed for the AR, VR and MR Sy
 ## Note
 
 This project was originally designed as a VR fire safety training simulation. Due to hardware limitations during development, the final implementation is provided as a desktop prototype while preserving the core gameplay and interaction concepts.
+
+## Documentation
+
+📄[Project Presentation](https://github.com/Grimmerd1/Operation_Fire_Ready/blob/main/Group_No._12.pdf)
