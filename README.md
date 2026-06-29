@@ -8,3 +8,7 @@ This project was originally designed as a VR fire safety training simulation. Du
 ## Documentation
 
 📄[Project Presentation](https://github.com/Grimmerd1/Operation_Fire_Ready/blob/main/Group_No._12.pdf)
+
+## Video
+
+🎥https://www.youtube.com/watch?v=ro1YSNsSBAA
